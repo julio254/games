@@ -161,8 +161,10 @@ int main() {
 
 	while(1) {
 		n++; 
+		
 		Input();
 		Draw();
+		
 		if(WinCondition() == 'X') {
 			cout << "Player X wins!\n";
 			break;
