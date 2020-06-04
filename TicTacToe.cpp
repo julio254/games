@@ -1,3 +1,6 @@
+// This game only requires the std C++ library, nothing else
+// This game is a cool way to introduce yourself to work with matrices
+
 #include <iostream>
 using namespace std;
 
